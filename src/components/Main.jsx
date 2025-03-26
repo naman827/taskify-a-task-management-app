@@ -7,7 +7,7 @@ const Main = () => {
         <div className="text-white flex items-center text-nowrap text-2xl font-bold">
           <h2>Most popular templates</h2>
         </div>
-        <p className="text-gray-400 text-sm mt-2">Get going faster with a template from the Planova community or</p>
+        <p className="text-gray-400 text-sm mt-2">Get going faster with a template from the Taskerman community or</p>
         
         <div className="mt-4">
           <select className="bg-gray-800 text-white px-4 py-2 rounded-md border border-gray-700 focus:outline-none focus:border-blue-500 w-64">

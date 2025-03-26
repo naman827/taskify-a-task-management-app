@@ -96,7 +96,7 @@ const Sidebar = () => {
       {/* Premium Banner */}
       <div className="mt-auto">
         <div className="text-gray-300 mb-4">
-          <h3 className="font-medium mb-2">Try Planova Premium</h3>
+          <h3 className="font-medium mb-2">Try Taskerman Premium</h3>
           <p className="text-sm text-gray-400">Get unlimited boards, card mirroring, unlimited automation, and more.</p>
           <Link to="/trial" className="text-blue-400 hover:underline text-sm block mt-2">
             Start free trial

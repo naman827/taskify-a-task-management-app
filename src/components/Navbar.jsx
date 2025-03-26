@@ -59,7 +59,7 @@ const Navbar = () => {
           </span>
           <div className="text-white text-3xl flex items-center gap-3">
             <SiTask />
-            <span>Planova</span>
+            <span>Taskerman</span>
           </div>
           <ul className="flex items-center gap-5 text-md capitalize p-3 rounded-2xl text-white ">
             <li className="relative hover:bg-gray-800 p-2 rounded-2xl">
